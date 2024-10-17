@@ -131,4 +131,4 @@
 ## 🙋‍♂️ Developer  
 | Fullstack | Hardware | Labeling |  
 | :--------: | :--------: | :--------: |  
-| [김가은](https://github.com/gaeunamy) | [정**] | [맹**] |
+| [김가은](https://github.com/gaeunamy) | 정 * * | 맹 * * |
