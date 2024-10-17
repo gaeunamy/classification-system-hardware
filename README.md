@@ -129,6 +129,6 @@
 <br/>
 
 ## 🙋‍♂️ Developer  
-| Fullstack |  
-| :--------: |  
-| [김가은](https://github.com/gaeunamy) |
+| Fullstack | Hardware | Labeling |  
+| :--------: | :--------: | :--------: |  
+| [김가은](https://github.com/gaeunamy) | [정**] | [맹**] |
